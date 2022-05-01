@@ -10,8 +10,8 @@
 com projetos pessoais que podem ser vistos aqui mesmo no meu github!
 
  <br><a href="https://github.com/Henriquedeval">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Henriquedeval&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedeval&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Henriquedeval&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedeval&layout=compact&langs_count=7&theme=dark"/>
   </div><br>
   
   ## Front-end
