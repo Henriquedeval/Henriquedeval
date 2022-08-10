@@ -28,6 +28,16 @@ com projetos pessoais que podem ser vistos aqui mesmo no meu github!
           
           
  </div>
+   
+ ## Back-end
+   
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"width="50px" />
+          
+   
+   </div>
+   
+   
           
 ## Quer falar comigo?
 <a href="lealhenrique58@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
