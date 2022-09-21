@@ -1,12 +1,12 @@
 ## Oi ,Td Bem? Eu sou o Henrique!!
 <div aling="center">
 - 🔭 Quem Sou eu? <br>
-   <br>  Olá , meu nome é Henrique Pontes tenho 18 anos sou desenvolvedor web focado em front-end 
+   <br>  Olá , meu nome é Henrique Pontes tenho 18 anos sou desenvolvedor web com ênfase em front-end 
         com muita vontade de aprender, sou aberto em relação a aprender novas linguagens e tecnologias 
         e no momento estou em busca de uma oportunidade de usar minhas habilidades de forma profissional 
                                                                                                       
 <br>-🍎 Estudos e projetos <br>
-<br>Atualmente estou estudando PHP e Java para back-end e aprimorando minhas habilidades de dev front-end <br>
+<br>Atualmente estou estudando Node  para back-end e aprimorando minhas habilidades de dev front-end <br>
 com projetos pessoais que podem ser vistos aqui mesmo no meu github!
 
  <br><a href="https://github.com/Henriquedeval">
