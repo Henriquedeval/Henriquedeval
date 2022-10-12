@@ -23,6 +23,8 @@ com projetos pessoais que podem ser vistos aqui mesmo no meu github!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"   width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="54px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="54px" />
+          
           
           
           
@@ -32,7 +34,9 @@ com projetos pessoais que podem ser vistos aqui mesmo no meu github!
  ## Back-end
    
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"width="54px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px" />
           
    
    </div>
